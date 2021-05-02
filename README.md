@@ -1,5 +1,5 @@
 # FakeNewsDetection
-Project successfully detects fake news using TfidfVectorizer 
+Project successfully detects fake news using TfidfVectorizer Algorithm
 Accuracy 92.66%
 ![](FakeNewsAccuracy.PNG)
 
